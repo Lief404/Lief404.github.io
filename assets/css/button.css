@@ -1,0 +1,5 @@
+element.style{
+    color: white var(--bs-body-bg);
+    background: grey var(--bs-info-text-emphasis);
+    border-radius: 23px;
+}
