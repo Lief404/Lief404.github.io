@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 element.style{
     color: white var(--bs-body-bg);
     background: grey var(--bs-info-text-emphasis);
     border-radius: 23px;
+=======
+element.style{
+    color: white var(--bs-body-bg);
+    background: grey var(--bs-info-text-emphasis);
+    border-radius: 23px;
+>>>>>>> 6acc43c63b729d1ee24c5c6c19efd632756a8ab8
 }
